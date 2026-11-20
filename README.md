@@ -3,7 +3,7 @@
 > 如果你感觉某本书不错，请去购买实体书支持作者。
 
 <details>
-<summary><b>Android</b> · 45 本</summary>
+<summary><b>Android</b></summary>
 
 Android 源码、进阶、音视频。
 
@@ -58,7 +58,7 @@ Android 源码、进阶、音视频。
 </details>
 
 <details>
-<summary><b>Java</b> · 25 本</summary>
+<summary><b>Java</b></summary>
 
 Java 语言、虚拟机、面试题。
 
@@ -93,7 +93,7 @@ Java 语言、虚拟机、面试题。
 </details>
 
 <details>
-<summary><b>通用 / 职业素养</b> · 103 本</summary>
+<summary><b>通用 / 职业素养</b></summary>
 
 编程思想、架构、管理、数学。
 
@@ -206,7 +206,7 @@ Java 语言、虚拟机、面试题。
 </details>
 
 <details>
-<summary><b>周易 / 术数</b> · 28 本</summary>
+<summary><b>周易 / 术数</b></summary>
 
 周易、六爻、奇门、命理。
 
@@ -244,7 +244,7 @@ Java 语言、虚拟机、面试题。
 </details>
 
 <details>
-<summary><b>计算机系统</b> · 14 本</summary>
+<summary><b>计算机系统</b></summary>
 
 体系结构、操作系统、编译原理。
 
@@ -268,7 +268,7 @@ Java 语言、虚拟机、面试题。
 </details>
 
 <details>
-<summary><b>C / C++</b> · 23 本</summary>
+<summary><b>C / C++</b></summary>
 
 C 与 C++ 语言、STL、底层。
 
@@ -301,7 +301,7 @@ C 与 C++ 语言、STL、底层。
 </details>
 
 <details>
-<summary><b>数据结构与算法</b> · 21 本</summary>
+<summary><b>数据结构与算法</b></summary>
 
 算法导论、刷题、面试。
 
@@ -332,7 +332,7 @@ C 与 C++ 语言、STL、底层。
 </details>
 
 <details>
-<summary><b>图形学 / 渲染</b> · 24 本</summary>
+<summary><b>图形学 / 渲染</b></summary>
 
 OpenGL、Vulkan、光线追踪。
 
@@ -366,7 +366,7 @@ OpenGL、Vulkan、光线追踪。
 </details>
 
 <details>
-<summary><b>AI / 机器学习</b> · 45 本</summary>
+<summary><b>AI / 机器学习</b></summary>
 
 机器学习、深度学习、大模型相关。
 
@@ -421,7 +421,7 @@ OpenGL、Vulkan、光线追踪。
 </details>
 
 <details>
-<summary><b>其他语言</b> · 15 本</summary>
+<summary><b>其他语言</b></summary>
 
 Python、R、UNIX 网络编程等。
 
@@ -446,7 +446,7 @@ Python、R、UNIX 网络编程等。
 </details>
 
 <details>
-<summary><b>前端 / Web</b> · 10 本</summary>
+<summary><b>前端 / Web</b></summary>
 
 JS、CSS、浏览器、性能优化。
 
@@ -466,7 +466,7 @@ JS、CSS、浏览器、性能优化。
 </details>
 
 <details>
-<summary><b>Linux</b> · 4 本</summary>
+<summary><b>Linux</b></summary>
 
 Linux 内核、系统编程、运维。
 
@@ -480,7 +480,7 @@ Linux 内核、系统编程、运维。
 </details>
 
 <details>
-<summary><b>HTTP / 网络</b> · 10 本</summary>
+<summary><b>HTTP / 网络</b></summary>
 
 HTTP、TCP/IP、网络协议。
 
@@ -500,7 +500,7 @@ HTTP、TCP/IP、网络协议。
 </details>
 
 <details>
-<summary><b>大数据</b> · 10 本</summary>
+<summary><b>大数据</b></summary>
 
 Spark、Hadoop、数据中台。
 
@@ -520,7 +520,7 @@ Spark、Hadoop、数据中台。
 </details>
 
 <details>
-<summary><b>产品 / 运营</b> · 5 本</summary>
+<summary><b>产品 / 运营</b></summary>
 
 产品经理、交互设计、增长。
 
@@ -535,7 +535,7 @@ Spark、Hadoop、数据中台。
 </details>
 
 <details>
-<summary><b>其他</b> · 1 本</summary>
+<summary><b>其他</b></summary>
 
 放在根目录、未归类的书。
 
