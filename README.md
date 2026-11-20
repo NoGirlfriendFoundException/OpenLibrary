@@ -1,41 +1,6 @@
-# 免费开源
+# OpenLibrary
 
-> 如果你感觉这本书不错，请去购买实体书支持作者。
-
-一个按方向整理的计算机 / 互联网电子书库，共 **383** 本，**33.23 GB**。
-
-全部通过 **GitHub Releases** 分发，点开即下，无需注册、无需客户端。
-
-## 怎么下载
-
-展开下面的某个分类，就能看到里面有哪些书，点「下载」即可。每本书的附件名是它内容的 **MD5**，这样不同人上传的同一本书不会重复，也方便你核对有没有下全。
-
-```
-https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/<分类标签>/<md5>.pdf
-```
-
-| 分类 | 数量 | Release 标签 |
-|---|---:|---|
-| **Android** | 45 | [`android`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/android) |
-| **Java** | 25 | [`java`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/java) |
-| **通用 / 职业素养** | 103 | [`general`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/general) |
-| **周易 / 术数** | 28 | [`zhouyi`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/zhouyi) |
-| **计算机系统** | 14 | [`system`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/system) |
-| **C / C++** | 23 | [`cpp`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/cpp) |
-| **数据结构与算法** | 21 | [`algo`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/algo) |
-| **图形学 / 渲染** | 24 | [`graphics`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/graphics) |
-| **AI / 机器学习** | 45 | [`ai`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/ai) |
-| **其他语言** | 15 | [`niche-lang`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/niche-lang) |
-| **前端 / Web** | 10 | [`frontend`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/frontend) |
-| **Linux** | 4 | [`linux`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/linux) |
-| **HTTP / 网络** | 10 | [`http`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/http) |
-| **大数据** | 10 | [`bigdata`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/bigdata) |
-| **产品 / 运营** | 5 | [`product`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/product) |
-| **其他** | 1 | [`other`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/other) |
-
-## 书目
-
-点分类名即可展开 / 收起。
+> 如果你感觉某本书不错，请去购买实体书支持作者。
 
 <details>
 <summary><b>Android</b> · 45 本</summary>
