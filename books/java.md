@@ -2,7 +2,7 @@
 
 > 返回 [仓库首页](../README.md)
 
-共 **25** 本，合计 **4.43 GB**。
+共 **25** 本，合计 **4.42 GB**。
 
 Release 标签：`java` ・ [在 GitHub 上查看](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/java)
 
@@ -32,7 +32,7 @@ Release 标签：`java` ・ [在 GitHub 上查看](https://github.com/NoGirlfrie
 | 22 | 深入理解Java虚拟机 | 284.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/996aa8cdd09c2a78018e6f35c1562c58.pdf) | `996aa8cdd09c2a78018e6f35c1562c58` |
 | 23 | 深入理解Java虚拟机：JVM高级特性与最佳实践 第2版 | 253.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/3637e868e0a69294ad4f5364bf2a6b92.pdf) | `3637e868e0a69294ad4f5364bf2a6b92` |
 | 24 | 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版） | 61.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/428d6ceb4286877ddd8b90ddbc7d30a2.pdf) | `428d6ceb4286877ddd8b90ddbc7d30a2` |
-| 25 | 马士兵的JAVA公开课 | 117.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/ed0876fd1460d8f1d757862be06d7a30.pdf) | `ed0876fd1460d8f1d757862be06d7a30` |
+| 25 | 马士兵的JAVA公开课 | 110.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/b8f10d07be58e2ae2e04a2c280367685.pdf) | `b8f10d07be58e2ae2e04a2c280367685` |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 如果你感觉这本书不错，请去购买实体书支持作者。
 
-一个按方向整理的计算机 / 互联网电子书库，共 **386** 本，**33.42 GB**。
+一个按方向整理的计算机 / 互联网电子书库，共 **386** 本，**33.41 GB**。
 
 全部通过 **GitHub Releases** 分发，点开即下，无需注册、无需客户端。
 
@@ -123,7 +123,7 @@ Java 语言、虚拟机、面试题。完整书单见 [books/java.md](books/java
 | 22 | 深入理解Java虚拟机 | 284.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/996aa8cdd09c2a78018e6f35c1562c58.pdf) |
 | 23 | 深入理解Java虚拟机：JVM高级特性与最佳实践 第2版 | 253.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/3637e868e0a69294ad4f5364bf2a6b92.pdf) |
 | 24 | 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版） | 61.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/428d6ceb4286877ddd8b90ddbc7d30a2.pdf) |
-| 25 | 马士兵的JAVA公开课 | 117.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/ed0876fd1460d8f1d757862be06d7a30.pdf) |
+| 25 | 马士兵的JAVA公开课 | 110.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/b8f10d07be58e2ae2e04a2c280367685.pdf) |
 
 </details>
 
