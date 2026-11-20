@@ -2,7 +2,7 @@
 
 > 如果你感觉这本书不错，请去购买实体书支持作者。
 
-一个按方向整理的计算机 / 互联网电子书库，共 **386** 本，**33.41 GB**。
+一个按方向整理的计算机 / 互联网电子书库，共 **383** 本，**33.23 GB**。
 
 全部通过 **GitHub Releases** 分发，点开即下，无需注册、无需客户端。
 
@@ -19,11 +19,11 @@ https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/<分
 | **Android** | 45 | [`android`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/android) |
 | **Java** | 25 | [`java`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/java) |
 | **通用 / 职业素养** | 103 | [`general`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/general) |
-| **周易 / 术数** | 30 | [`zhouyi`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/zhouyi) |
+| **周易 / 术数** | 28 | [`zhouyi`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/zhouyi) |
 | **计算机系统** | 14 | [`system`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/system) |
 | **C / C++** | 23 | [`cpp`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/cpp) |
 | **数据结构与算法** | 21 | [`algo`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/algo) |
-| **图形学 / 渲染** | 25 | [`graphics`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/graphics) |
+| **图形学 / 渲染** | 24 | [`graphics`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/graphics) |
 | **AI / 机器学习** | 45 | [`ai`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/ai) |
 | **其他语言** | 15 | [`niche-lang`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/niche-lang) |
 | **前端 / Web** | 10 | [`frontend`](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/tag/frontend) |
@@ -241,7 +241,7 @@ Java 语言、虚拟机、面试题。
 </details>
 
 <details>
-<summary><b>周易 / 术数</b> · 30 本</summary>
+<summary><b>周易 / 术数</b> · 28 本</summary>
 
 周易、六爻、奇门、命理。
 
@@ -255,28 +255,26 @@ Java 语言、虚拟机、面试题。
 | 6 | 周易与预测学 | 169.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/5f4e45cc58881e6402c4dbe6b173a094.pdf) |
 | 7 | 周易预测学入门 | 74.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/723d2833ea508da9030742c9e12e1deb.pdf) |
 | 8 | 周易预测题例解 | 127.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/00f98933b46e7a31cb425698815b6e9b.pdf) |
-| 9 | 四柱预测学 | 539 KB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/be41a8af4244cb2d767fa6a40fd7d475.docx) |
-| 10 | 四柱预测学 | 155.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/e90cfc17f556a991bb517193ac66bbd9.pdf) |
-| 11 | 四柱预测学入门 | 92.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/d48f9a09882d28be274dc385edb8e0b4.pdf) |
-| 12 | 四柱预测学释疑 | 79.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/9ef32e0600dd38f34aa8414141f824db.pdf) |
-| 13 | 图解麻衣神相 | 187.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/afb60eec9ce20f1c1d5829883aa6029a.pdf) |
-| 14 | 增删卜易上 | 149.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/d6fa12f5a2656523437ed812c5f81e9a.pdf) |
-| 15 | 增删卜易下 | 142.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/2e95b25c48a020dc82bd1a4a2079721f.pdf) |
-| 16 | 子平真诠白话评注（上） | 20.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/fdf314a6346520512fb7786ec92ad01e.pdf) |
-| 17 | 子平真诠白话评注上 | 20.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/fdf314a6346520512fb7786ec92ad01e.pdf) |
-| 18 | 子平真诠白话评注下 | 130.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/e115952a8f26b9336c98a9b245d29679.pdf) |
-| 19 | 易经推说 | 145.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/f019beac61999240cfa3662c8018451b.pdf) |
-| 20 | 柳庄神相 | 221.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/ecff36f072acbdb965bd6702f98bef15.pdf) |
-| 21 | 梅花易数(故宫珍藏善本) | 88.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/7fb9665262e2e0a6921ac36b6c897b97.pdf) |
-| 22 | 梅花易数 | 181.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/d6e69a9a3aefff6779067f19553aad48.pdf) |
-| 23 | 水镜神相 | 255.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/ab718d6eccb35a0ce55416dead519088.pdf) |
-| 24 | 渊海子平 | 150.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/cbc09206f6570169009adecad30407d3.pdf) |
-| 25 | 滴天髓白话评注上 | 75.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/6dbcd0a12caaaef9b0399e6d8a8edd42.pdf) |
-| 26 | 滴天髓白话评注下 | 154.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/b2ef5718c17ee90ed0e7f5d8df267d4f.pdf) |
-| 27 | 神相全编 | 354.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/274162465be8386ec4f89df8ac0a7b80.pdf) |
-| 28 | 神相铁关门 | 211.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/add0ca94a84305804295ffb0972f02b5.pdf) |
-| 29 | 紫微斗数 | 142.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/01b1022d33dba2a2ab6697aff334021e.pdf) |
-| 30 | 紫微斗数解密 | 151.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/df40c968de357cea73f50a56a4f7614f.pdf) |
+| 9 | 四柱预测学-邵伟华 | 2.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/1226d1e5b794d591987aba584eadd09f.pdf) |
+| 10 | 四柱预测学入门 | 92.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/d48f9a09882d28be274dc385edb8e0b4.pdf) |
+| 11 | 四柱预测学释疑 | 79.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/9ef32e0600dd38f34aa8414141f824db.pdf) |
+| 12 | 图解麻衣神相 | 187.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/afb60eec9ce20f1c1d5829883aa6029a.pdf) |
+| 13 | 增删卜易上 | 149.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/d6fa12f5a2656523437ed812c5f81e9a.pdf) |
+| 14 | 增删卜易下 | 142.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/2e95b25c48a020dc82bd1a4a2079721f.pdf) |
+| 15 | 子平真诠白话评注上 | 20.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/fdf314a6346520512fb7786ec92ad01e.pdf) |
+| 16 | 子平真诠白话评注下 | 130.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/e115952a8f26b9336c98a9b245d29679.pdf) |
+| 17 | 易经推说 | 145.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/f019beac61999240cfa3662c8018451b.pdf) |
+| 18 | 柳庄神相 | 221.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/ecff36f072acbdb965bd6702f98bef15.pdf) |
+| 19 | 梅花易数(故宫珍藏善本) | 88.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/7fb9665262e2e0a6921ac36b6c897b97.pdf) |
+| 20 | 梅花易数 | 181.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/d6e69a9a3aefff6779067f19553aad48.pdf) |
+| 21 | 水镜神相 | 255.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/ab718d6eccb35a0ce55416dead519088.pdf) |
+| 22 | 渊海子平 | 150.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/cbc09206f6570169009adecad30407d3.pdf) |
+| 23 | 滴天髓白话评注上 | 75.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/6dbcd0a12caaaef9b0399e6d8a8edd42.pdf) |
+| 24 | 滴天髓白话评注下 | 154.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/b2ef5718c17ee90ed0e7f5d8df267d4f.pdf) |
+| 25 | 神相全编 | 354.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/274162465be8386ec4f89df8ac0a7b80.pdf) |
+| 26 | 神相铁关门 | 211.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/add0ca94a84305804295ffb0972f02b5.pdf) |
+| 27 | 紫微斗数 | 142.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/01b1022d33dba2a2ab6697aff334021e.pdf) |
+| 28 | 紫微斗数解密 | 151.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/zhouyi/df40c968de357cea73f50a56a4f7614f.pdf) |
 
 </details>
 
@@ -369,7 +367,7 @@ C 与 C++ 语言、STL、底层。
 </details>
 
 <details>
-<summary><b>图形学 / 渲染</b> · 25 本</summary>
+<summary><b>图形学 / 渲染</b> · 24 本</summary>
 
 OpenGL、Vulkan、光线追踪。
 
@@ -394,12 +392,11 @@ OpenGL、Vulkan、光线追踪。
 | 17 | 视觉计算基础：计算机视觉、图形学和图像处理的核<br />心概念_2019 | 138.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/fabad20221ea957c14a4e62103b7eecf.pdf) |
 | 18 | 计算机图形学中的四元数_2023 | 2.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/57bcec8ab99509cec571e20c32f6bfb4.pdf) |
 | 19 | 计算机图形学入门3D渲染指南 | 28.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/04094f7369942b99fcc32ed397d78179.pdf) |
-| 20 | 计算机图形学入门：3D渲染指南_2022 | 7.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/f7233c128e0c537524026485ca0e2f8b.epub) |
-| 21 | 计算机图形学基础（OpenGL版）（第2版） 2020 | 61.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/36dd1d69afeb3490a53cb506b30e0508.pdf) |
-| 22 | 计算机图形学编程：使用OpenGL和C++_2020 | 120.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/2ba40b4a00c0154d9b53ad96a5433684.pdf) |
-| 23 | 计算机图形学：几何体数据结构_2019 | 62.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/12603185f40dd34a8b8ccd86c2053481.pdf) |
-| 24 | 计算机图形学：原理、算法及实践_2018 | 14.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/d4d23547aa30fc5af772557c8fbfa894.pdf) |
-| 25 | 计算机图形学：原理及实践（第3版基础篇）_2019 | 195.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/828e9d5900376f438338f38895a63199.pdf) |
+| 20 | 计算机图形学基础（OpenGL版）（第2版） 2020 | 61.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/36dd1d69afeb3490a53cb506b30e0508.pdf) |
+| 21 | 计算机图形学编程：使用OpenGL和C++_2020 | 120.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/2ba40b4a00c0154d9b53ad96a5433684.pdf) |
+| 22 | 计算机图形学：几何体数据结构_2019 | 62.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/12603185f40dd34a8b8ccd86c2053481.pdf) |
+| 23 | 计算机图形学：原理、算法及实践_2018 | 14.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/d4d23547aa30fc5af772557c8fbfa894.pdf) |
+| 24 | 计算机图形学：原理及实践（第3版基础篇）_2019 | 195.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/828e9d5900376f438338f38895a63199.pdf) |
 
 </details>
 
