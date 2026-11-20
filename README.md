@@ -34,26 +34,23 @@ Android 源码、进阶、音视频。
 | 23 | Android进阶解密 | 30.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/07ca6c8682cd10405f647eddecca0621.pdf) |
 | 24 | Android音视频开发 | 190.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/ecc7da6cef4969585469fcb2d4a7d1ba.pdf) |
 | 25 | App研发录：架构设计、Crash分析和竞品技术分析 | 112.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/8439e2eab0843d6b534afc3f79d91ada.pdf) |
-| 26 | OpenCV Android 开发实战 | 12.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/38ea0f5a6268dca5731b6ff5ed339670.pdf) |
-| 27 | OpenGL ES应用开发实践指南 | 58.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/fa70490a7230fa2a29d4070f4754b258.pdf) |
-| 28 | 安卓传奇 | 249.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/d8654a6d09173da0d73cbde055a23dd9.pdf) |
-| 29 | 最强Android书架构大剖析 | 187.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/5175be521a22055041d15038585e22c2.pdf) |
-| 30 | 深入Android热修复计数原理 | 90.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/8bb0181bad2cff66080572c0efbc450b.pdf) |
-| 31 | 深入剖析Android新特性 | 52.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/d173b7ef92c6583edbc4c82735d8070b.pdf) |
-| 32 | 深入探索Android热修复技术原理 | 122.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/d1d41a2f8a31d23a93aef6beb3c78855.pdf) |
-| 33 | 深入浅出Android源代码 | 96.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/cc2dde901660d72dc6105e43143bed9b.pdf) |
-| 34 | 深入理解Android Java虚拟机ART | 485.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/225ff84acaa48a33c2a5ca4acaab28f0.pdf) |
-| 35 | 深入理解Android内核设计思想(上) | 362.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/34588a2cb69a2df5a45e62ffb62e3277.pdf) |
-| 36 | 深入理解Android内核设计思想(下) | 271.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/1468b271711bb72ae783e40a6564905e.pdf) |
-| 37 | 深入理解Android：WiFi模块 NFC和GPS卷 | 38.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/7d4a7c96d93e5c4c13a30a33bf875396.pdf) |
-| 38 | 深入理解OpenCV 实用计算机视觉项目解析 | 54.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/cb5c25fc2d81d1bc27df9ca493ff6911.pdf) |
-| 39 | 视频直播APP应用开发 | 139.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/bb6a9a89dbb2a673c1feb67bc327b51e.pdf) |
-| 40 | 阿里巴巴Android进阶资料 | 4.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/c36a20855b99e07d36814c04aeaa30fa.pdf) |
-| 41 | 音视频开发 | 43.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/2a01e211da33990512ffd41f01adf06d.pdf) |
-| 42 | 音视频开发进阶指南基于Android与iOS平台的实践 | 289.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/ace944f805d532d972e683176521530c.pdf) |
-| 43 | 音视频开发进阶指南 | 323.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/20c44f164243f665b4be727696dde5e0.pdf) |
-| 44 | 高性能Android应用开发 | 19.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/b9185e559a49f9c82a35790cfab90587.pdf) |
-| 45 | 高级Android开发强化实战 | 216.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/6446d4701e593122a142e39c1d337172.pdf) |
+| 26 | 安卓传奇 | 249.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/d8654a6d09173da0d73cbde055a23dd9.pdf) |
+| 27 | 最强Android书架构大剖析 | 187.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/5175be521a22055041d15038585e22c2.pdf) |
+| 28 | 深入Android热修复计数原理 | 90.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/8bb0181bad2cff66080572c0efbc450b.pdf) |
+| 29 | 深入剖析Android新特性 | 52.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/d173b7ef92c6583edbc4c82735d8070b.pdf) |
+| 30 | 深入探索Android热修复技术原理 | 122.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/d1d41a2f8a31d23a93aef6beb3c78855.pdf) |
+| 31 | 深入浅出Android源代码 | 96.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/cc2dde901660d72dc6105e43143bed9b.pdf) |
+| 32 | 深入理解Android Java虚拟机ART | 485.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/225ff84acaa48a33c2a5ca4acaab28f0.pdf) |
+| 33 | 深入理解Android内核设计思想(上) | 362.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/34588a2cb69a2df5a45e62ffb62e3277.pdf) |
+| 34 | 深入理解Android内核设计思想(下) | 271.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/1468b271711bb72ae783e40a6564905e.pdf) |
+| 35 | 深入理解Android：WiFi模块 NFC和GPS卷 | 38.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/7d4a7c96d93e5c4c13a30a33bf875396.pdf) |
+| 36 | 视频直播APP应用开发 | 139.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/bb6a9a89dbb2a673c1feb67bc327b51e.pdf) |
+| 37 | 阿里巴巴Android进阶资料 | 4.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/c36a20855b99e07d36814c04aeaa30fa.pdf) |
+| 38 | 音视频开发 | 43.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/2a01e211da33990512ffd41f01adf06d.pdf) |
+| 39 | 音视频开发进阶指南基于Android与iOS平台的实践 | 289.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/ace944f805d532d972e683176521530c.pdf) |
+| 40 | 音视频开发进阶指南 | 323.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/20c44f164243f665b4be727696dde5e0.pdf) |
+| 41 | 高性能Android应用开发 | 19.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/b9185e559a49f9c82a35790cfab90587.pdf) |
+| 42 | 高级Android开发强化实战 | 216.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/6446d4701e593122a142e39c1d337172.pdf) |
 
 </details>
 
@@ -89,13 +86,16 @@ Java 语言、虚拟机、面试题。
 | 23 | 深入理解Java虚拟机：JVM高级特性与最佳实践第2版 | 253.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/3637e868e0a69294ad4f5364bf2a6b92.pdf) |
 | 24 | 深入理解Java虚拟机：JVM高级特性与最佳实践<br />（最新第二版） | 61.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/428d6ceb4286877ddd8b90ddbc7d30a2.pdf) |
 | 25 | 马士兵的JAVA公开课 | 110.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/java/b8f10d07be58e2ae2e04a2c280367685.pdf) |
+| 26 | Java性能调优实战-刘超 | 11.5 MB | 待上传 |
+| 27 | Java核心技术面试精讲-杨晓峰 | 23.4 MB | 待上传 |
+| 28 | 深入拆解Java虚拟机-郑雨迪 | 23.6 MB | 待上传 |
 
 </details>
 
 <details>
-<summary><b>通用 / 职业素养</b></summary>
+<summary><b>其他</b></summary>
 
-编程思想、架构、管理、数学。
+编程思想、架构、数学、计算机基础。
 
 | #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
 |---:|---|---:|---|
@@ -104,104 +104,117 @@ Java 语言、虚拟机、面试题。
 | 3 | The Matrix Cookbook（矩阵手册） | 1.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/62f19d0ce4fc35aee50e824f37d2707f.pdf) |
 | 4 | 一线架构师实践指南（温昱） | 3.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/97c98fd341226b7c793341d489d98a22.pdf) |
 | 5 | 七周七语言：理解多种编程范型 | 6.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b22f5ded449b67382f4a578c48a1a78f.pdf) |
-| 6 | 人人都有好工作：IT行业求职面试必读 | 4.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e4995a9b1771ea565f44d89b4eaa97ed.pdf) |
-| 7 | 从技术走向管理――李元芳履职记第2版 | 101.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5edbe5e0edfd6cd14d0514ae43130245.pdf) |
-| 8 | 代码之美 | 145.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/82d9c04aed5c0cb454333acfe791a3ee.pdf) |
-| 9 | 代码之髓：编程语言核心概念 | 17.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/dbcd1b73f0df5f36c6c9ae1d3ee6f9d1.pdf) |
-| 10 | 代码大全第2版 | 539.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1e2c47659c094e64d67a7c927f5da39c.pdf) |
-| 11 | 代码整洁之道 Clean Code | 22.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/bcc5ff8f4bd2acbe1e8486d824810bce.pdf) |
-| 12 | 代码整洁之道程序员的职业素养 | 23.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/26391610fd344db78bcabf7ed6910b26.pdf) |
-| 13 | 代码整洁之道 | 257.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/55981d7ee4fbb482eeff80e682c452b1.pdf) |
-| 14 | 任天堂传奇：游戏产业之王者归来 | 20.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/7f8c575b79e9895fcff8680bd51bc35f.pdf) |
-| 15 | 优秀的叛逆者：引领组织变革的力量 | 14.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/84a5d88d8d6bfb489ff2677a3c520437.pdf) |
-| 16 | 你的灯亮着吗？发现问题的真正所在 | 10.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/ea518c9a8d1c509012d5ad54925e4a34.pdf) |
-| 17 | 写给大家看的PPT设计书 | 26.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/806b8a1ededa86eaf63f27ed09ce288f.pdf) |
-| 18 | 写给大家看的项目管理书 | 18.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e4283c178489a410eadaa090902d6ea6.pdf) |
-| 19 | 创意型领袖：从CEO到DEO | 18.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/81b97301d03b2ca64f9883296c636265.pdf) |
-| 20 | 区块链供应链金融 | 175.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/242a24110587a80f7d7460053e9d5232.pdf) |
-| 21 | 卓越程序员密码 | 12.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/a7659682d033cd59e06881c806eb761e.pdf) |
-| 22 | 博弈论 | 5.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e25abbe9a69855de9a7385d9bf0e3ac2.pdf) |
-| 23 | 历史上最伟大的10个方程 | 17.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/069f77450fb253337e60ce2d4f59dbcf.pdf) |
-| 24 | 可能与不可能的边界：P NP问题趣史 | 5.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e15a7d3137affaf676eecb80c0c77661.pdf) |
-| 25 | 命令行中的数据科学 | 11.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9db64e63f3f81de54d3c05684831f1b9.pdf) |
-| 26 | 咨询的奥秘（续）：咨询师的百宝箱 | 20.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9cb6476cdc08a29bc37d42c260675f94.pdf) |
-| 27 | 咨询的奥秘：寻求和提出建议的智慧 | 5.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/03f45536193472b44b60c88b584acc01.pdf) |
-| 28 | 图解CIO工作指南（第4版） | 25.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9ddb17cf7b2e5eceb29ed1ba94e11572.pdf) |
-| 29 | 图解网站分析（修订版）：让流量倍增的网站<br />优化方法 | 12.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/4ee863e4214ffc256f7248b90de0d970.pdf) |
-| 30 | 如何变得有思想？——阮一峰博客文集 Ⅰ | 2.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/3aba4664e1e90a9e3ae4823771f5826f.pdf) |
-| 31 | 学习正则表达式 | 16.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/ac3f440a07a5f7e88ca96053855eb5fe.pdf) |
-| 32 | 小决心：确实奏效的好习惯养成方法 | 7.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/51cb05d7938e0841697339ddbb06bb78.pdf) |
-| 33 | 小圈子·大社交 | 9.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/45469f6ebe9e33acd4abc72ed8237470.pdf) |
-| 34 | 布道之道 | 11.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/163d410a75c2d4224cb5ad1dea34ce52.pdf) |
-| 35 | 度量：一首献给数学的情歌 | 10.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9c22cbd7fab9b4c662f10484c145a310.pdf) |
-| 36 | 建筑中的数学之旅 | 32.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/33deb73efc5e44a25a0100adf8e81c7e.pdf) |
-| 37 | 影响力：让网站内容打动访客 | 10.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/adf641bea3dce3eb133d56dd3519f917.pdf) |
-| 38 | 影响地图：让你的软件产生真正的影响力 | 5.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b72682df863a990a92eb0dfdd531c72e.pdf) |
-| 39 | 微交互：细节设计成就卓越产品 | 11.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/2e93f0c74d9338c3016ad34d61f480a9.pdf) |
-| 40 | 微积分的历程：从牛顿到勒贝格 | 7.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/277fab0ec88e0212ee80217bacca1642.pdf) |
-| 41 | 思考的乐趣：Matrix67数学笔记 | 8.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b32fbf104aa0913238eb3b1d85275d60.pdf) |
-| 42 | 技术为径 | 137.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/0857360e34880e836fb5c9f196d5db2e.pdf) |
-| 43 | 技术领导力：程序员如何才能带团队 | 130.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/8a0b5b24173fc1e36a009c2e17fc6ce9.pdf) |
-| 44 | 揭示宇宙奥秘的13个常数 | 19.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/82cf3383005ff1e719759a31fa93e9e8.pdf) |
-| 45 | 数学那些事儿 | 17.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/f4c2b6dd250dfcca9152946870fc437e.pdf) |
-| 46 | 数据可视化实战：使用D3设计交互式图表 | 7.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/6490ebf66cfbb38d166c758d0dfd788f.pdf) |
-| 47 | 数据科学实战 | 64.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/dce3cc083bb22f0134f7dc431317a51d.pdf) |
-| 48 | 易用为王：改进产品设计的10个策略 | 44.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b5468cf583808551dd98256a31d8c0a3.pdf) |
-| 49 | 智能方法及应用 | 48.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1896e9a229148643cf9dcbee71d290c9.pdf) |
-| 50 | 有趣的统计：75招学会数据分析 | 10.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b325e3591e948780718bab3b01d2c6c4.pdf) |
-| 51 | 机器学习实践：测试驱动的开发方法 | 18.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5d3aad6273d7533a3a457650c598a2de.pdf) |
-| 52 | 架构之美 | 51.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1659a11025f25caa4976de68820ea6d6.pdf) |
-| 53 | 架构整洁之道-Robert C.Martin | 7.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/857b0b87688c8e4bc66acef395128c3b.pdf) |
-| 54 | 每个人都会死，但我总以为自己不会 | 21.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b3209e96e6c7d6340d95358b4c284d00.pdf) |
-| 55 | 汇编语言程序设计 | 270.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5260e31755d53e64aef94cd27339e005.pdf) |
-| 56 | 泛函分析基础 | 6.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/a4b96db9c89ccff5b3aa9dedc345a2b8.pdf) |
-| 57 | 浴缸里的惊叹：256道让你恍然大悟的趣题 | 13.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1d024215c355d514f9404b9f4a1386d1.pdf) |
-| 58 | 矩阵分析 | 36.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/01310798e991ccdc17639a2fa46413a1.pdf) |
-| 59 | 社会工程：安全体系中的人性漏洞 | 7.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/513178984ab7791f9a60699f059cf668.pdf) |
-| 60 | 程序员修炼之道-从小工到专家 | 150.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/db7ab147706987e48d9c9291837bbf0b.pdf) |
-| 61 | 程序员必读之软件架构 | 13.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/d41b38b08f51ea22040ef81356dac989.pdf) |
-| 62 | 程序员的思维修炼—开发认知潜能的九堂课 | 13.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/ba969758b4be0e5a21a824b4c7b74a88.pdf) |
-| 63 | 程序员自我修养 | 30.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/7b55c40cad019de0203aae7e11b06dff.pdf) |
-| 64 | 程序员面试逻辑题解析 | 20.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e23f64f35fd330b870915bfac47d96e2.pdf) |
-| 65 | 程序员面试金典（第5版的） | 6.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/eb721859020ac743170e3068c1d23620.pdf) |
-| 66 | 简约之美：软件设计之道 | 6.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/8b8c10110b95d78270823a12fd050f85.pdf) |
-| 67 | 简约至上 | 26.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5ccd96eccc079a28a5b753e2e98d767d.pdf) |
-| 68 | 精益开发实战：用看板管理大型项目 | 12.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/8e122bfed0436803ac4cf413db7cdf49.pdf) |
-| 69 | 精益数据分析 | 19.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c05b300aa1403325cea0a31aa55f2a3d.pdf) |
-| 70 | 精益设计：设计团队如何改善用户体验 | 11.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1d75e56bdf1a50b1f5dc123b899a81d3.pdf) |
-| 71 | 系统化思维导论 | 21.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/3094729e783bbe9ff280e2e21f84442b.pdf) |
-| 72 | 终极算法 | 2.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/fc73b2b5473a724df5c0b00a891d1bde.pdf) |
-| 73 | 结网@改变世界的互联网产品经理（修订版） | 31.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/57aab24e028bf69cfe30ecf11cd8e63b.pdf) |
-| 74 | 统计思维：程序员数学之概率统计（第2版） | 11.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c8ea8487d7c350738d406db17b1bae65.pdf) |
-| 75 | 编程之美-微软技术面试心得 | 170.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/2bff7ed588d6371419dfc0a8b4b5f701.pdf) |
-| 76 | 编程之美 | 36.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9fd0578295e507ea8afd9a5686480e8f.pdf) |
-| 77 | 编程大师访谈录 | 14.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/4893d092ded1c4885024b5bb20e3c928.pdf) |
-| 78 | 编程珠玑第2版 | 43.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/bbd6ae8eb5fc01fff1e599d9915c1f3a.pdf) |
-| 79 | 自然计算：DNA、量子比特和智能机器的未来 | 22.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/214ecab4cbafd8cb13d5dedeeb054127.pdf) |
-| 80 | 视不可当：信息图与可视化传播 | 29.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/f1a6d160345e7c2a02437a292fb8c6a2.pdf) |
-| 81 | 计算机科学中的数学：信息与智能时代的必修课<br />(Eric Lehman, F Thomson Leighton, Albert R Meyer etc.) | 205.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1072491655bb952a49bf8b07b9efe7b6.pdf) |
-| 82 | 计算的本质：深入剖析程序和计算机 | 19.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/0c1b99ccac0154f174f948b6547ea57f.pdf) |
-| 83 | 证明达尔文：进化和生物创造性的一个数学理论 | 7.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/2365d3bd42140c78a33872def3828ae9.pdf) |
-| 84 | 说服人要懂心理学 | 4.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5acdf9fd0228a89c08fa9b0806f80fdd.pdf) |
-| 85 | 调试九法：软硬件错误的排查之道 | 11.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/eecbc08513a459d6c5a96b09eedd0783.pdf) |
-| 86 | 谷歌和亚马逊如何做产品 | 6.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c21ca817fa56c21afcc61abb068719ff.pdf) |
-| 87 | 贴心设计：打造高可用性的移动产品 | 40.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/79d6adabfaebe36f61d5e78b9855ea15.pdf) |
-| 88 | 软件之道——软件开发争议问题剖析 | 25.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/729888cc5c336cd19b5b0ece34fe9570.pdf) |
-| 89 | 软件开发与创新：ThoughtWorks文集（续集）<br />（PDF 代码为图片格式） | 5.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/826ded4a847fd831efd0f4817cc752cb.pdf) |
-| 90 | 软件开发沉思录：ThoughtWorks文集<br />（PDF代码为图片格式） | 6.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5224fd6b22750bc02741c1686f6b5f85.pdf) |
-| 91 | 软件故事：谁发明了那些经典的编程语言 | 9.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e4f1b47fc4a1fd7eaaba523cb73495ec.pdf) |
-| 92 | 软件架构设计第2版 | 3.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c9a09d90ee44f4c4dab99e8a89978d2c.pdf) |
-| 93 | 软件架构设计程序员向架构师转型必备 | 27.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/80501888e26769a3bcf53652aa7d51bd.pdf) |
-| 94 | 软件测试实战：微软技术专家经验总结 | 20.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/978b7b88d17fbe9102ece496a273d82e.pdf) |
-| 95 | 软件调试的艺术（PDF代码为图片格式） | 15.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/16c295ce07fdbdb70b774549788588fd.pdf) |
-| 96 | 软件项目成功之道 | 9.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c935444b869395a50ae3d62595c069ae.pdf) |
-| 97 | 迷茫的旅行商：一个无处不在的计算机算法问题 | 41.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/03da21c24d42fb4d4aad1c01b55866bd.pdf) |
-| 98 | 重构：改善既有代码的设计 | 157.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1a284b69b3647e078f3a890087f60897.pdf) |
-| 99 | 金领简历：敲开苹果、微软、谷歌的大门 | 16.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/6e39346c94c0cc644ce1fdc15cd160d3.pdf) |
-| 100 | 门后的秘密：卓越管理的故事 | 10.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/28b72e53852fc2ad26dc17585a8e1595.pdf) |
-| 101 | 项目百态：深入理解软件项目行为模式 | 18.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/21f38aa5dfba48deb690d905afa273e1.pdf) |
-| 102 | 项目管理修炼之道 | 8.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/0c570221e14692ee99f6283e47cb2569.pdf) |
-| 103 | 黑客与画家来自计算机时代的高见 | 98.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/7ef9fa2e4ec7ffd54e8f3151bac812fc.pdf) |
+| 6 | 代码之美 | 145.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/82d9c04aed5c0cb454333acfe791a3ee.pdf) |
+| 7 | 代码之髓：编程语言核心概念 | 17.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/dbcd1b73f0df5f36c6c9ae1d3ee6f9d1.pdf) |
+| 8 | 代码大全第2版 | 539.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1e2c47659c094e64d67a7c927f5da39c.pdf) |
+| 9 | 代码整洁之道 Clean Code | 22.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/bcc5ff8f4bd2acbe1e8486d824810bce.pdf) |
+| 10 | 代码整洁之道程序员的职业素养 | 23.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/26391610fd344db78bcabf7ed6910b26.pdf) |
+| 11 | 代码整洁之道 | 257.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/55981d7ee4fbb482eeff80e682c452b1.pdf) |
+| 12 | 任天堂传奇：游戏产业之王者归来 | 20.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/7f8c575b79e9895fcff8680bd51bc35f.pdf) |
+| 13 | 区块链供应链金融 | 175.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/242a24110587a80f7d7460053e9d5232.pdf) |
+| 14 | 博弈论 | 5.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e25abbe9a69855de9a7385d9bf0e3ac2.pdf) |
+| 15 | 历史上最伟大的10个方程 | 17.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/069f77450fb253337e60ce2d4f59dbcf.pdf) |
+| 16 | 可能与不可能的边界：P NP问题趣史 | 5.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e15a7d3137affaf676eecb80c0c77661.pdf) |
+| 17 | 命令行中的数据科学 | 11.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9db64e63f3f81de54d3c05684831f1b9.pdf) |
+| 18 | 图解网站分析（修订版）：让流量倍增的网站<br />优化方法 | 12.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/4ee863e4214ffc256f7248b90de0d970.pdf) |
+| 19 | 学习正则表达式 | 16.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/ac3f440a07a5f7e88ca96053855eb5fe.pdf) |
+| 20 | 度量：一首献给数学的情歌 | 10.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9c22cbd7fab9b4c662f10484c145a310.pdf) |
+| 21 | 建筑中的数学之旅 | 32.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/33deb73efc5e44a25a0100adf8e81c7e.pdf) |
+| 22 | 影响力：让网站内容打动访客 | 10.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/adf641bea3dce3eb133d56dd3519f917.pdf) |
+| 23 | 影响地图：让你的软件产生真正的影响力 | 5.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b72682df863a990a92eb0dfdd531c72e.pdf) |
+| 24 | 微交互：细节设计成就卓越产品 | 11.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/2e93f0c74d9338c3016ad34d61f480a9.pdf) |
+| 25 | 微积分的历程：从牛顿到勒贝格 | 7.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/277fab0ec88e0212ee80217bacca1642.pdf) |
+| 26 | 思考的乐趣：Matrix67数学笔记 | 8.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b32fbf104aa0913238eb3b1d85275d60.pdf) |
+| 27 | 揭示宇宙奥秘的13个常数 | 19.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/82cf3383005ff1e719759a31fa93e9e8.pdf) |
+| 28 | 数学那些事儿 | 17.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/f4c2b6dd250dfcca9152946870fc437e.pdf) |
+| 29 | 数据可视化实战：使用D3设计交互式图表 | 7.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/6490ebf66cfbb38d166c758d0dfd788f.pdf) |
+| 30 | 数据科学实战 | 64.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/dce3cc083bb22f0134f7dc431317a51d.pdf) |
+| 31 | 易用为王：改进产品设计的10个策略 | 44.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b5468cf583808551dd98256a31d8c0a3.pdf) |
+| 32 | 智能方法及应用 | 48.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1896e9a229148643cf9dcbee71d290c9.pdf) |
+| 33 | 有趣的统计：75招学会数据分析 | 10.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b325e3591e948780718bab3b01d2c6c4.pdf) |
+| 34 | 机器学习实践：测试驱动的开发方法 | 18.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5d3aad6273d7533a3a457650c598a2de.pdf) |
+| 35 | 架构之美 | 51.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1659a11025f25caa4976de68820ea6d6.pdf) |
+| 36 | 架构整洁之道-Robert C.Martin | 7.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/857b0b87688c8e4bc66acef395128c3b.pdf) |
+| 37 | 汇编语言程序设计 | 270.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5260e31755d53e64aef94cd27339e005.pdf) |
+| 38 | 泛函分析基础 | 6.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/a4b96db9c89ccff5b3aa9dedc345a2b8.pdf) |
+| 39 | 浴缸里的惊叹：256道让你恍然大悟的趣题 | 13.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1d024215c355d514f9404b9f4a1386d1.pdf) |
+| 40 | 矩阵分析 | 36.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/01310798e991ccdc17639a2fa46413a1.pdf) |
+| 41 | 程序员必读之软件架构 | 13.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/d41b38b08f51ea22040ef81356dac989.pdf) |
+| 42 | 程序员自我修养 | 30.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/7b55c40cad019de0203aae7e11b06dff.pdf) |
+| 43 | 程序员面试逻辑题解析 | 20.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e23f64f35fd330b870915bfac47d96e2.pdf) |
+| 44 | 简约之美：软件设计之道 | 6.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/8b8c10110b95d78270823a12fd050f85.pdf) |
+| 45 | 简约至上 | 26.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5ccd96eccc079a28a5b753e2e98d767d.pdf) |
+| 46 | 精益数据分析 | 19.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c05b300aa1403325cea0a31aa55f2a3d.pdf) |
+| 47 | 精益设计：设计团队如何改善用户体验 | 11.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1d75e56bdf1a50b1f5dc123b899a81d3.pdf) |
+| 48 | 系统化思维导论 | 21.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/3094729e783bbe9ff280e2e21f84442b.pdf) |
+| 49 | 终极算法 | 2.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/fc73b2b5473a724df5c0b00a891d1bde.pdf) |
+| 50 | 结网@改变世界的互联网产品经理（修订版） | 31.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/57aab24e028bf69cfe30ecf11cd8e63b.pdf) |
+| 51 | 统计思维：程序员数学之概率统计（第2版） | 11.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c8ea8487d7c350738d406db17b1bae65.pdf) |
+| 52 | 编程之美-微软技术面试心得 | 170.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/2bff7ed588d6371419dfc0a8b4b5f701.pdf) |
+| 53 | 编程之美 | 36.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9fd0578295e507ea8afd9a5686480e8f.pdf) |
+| 54 | 编程珠玑第2版 | 43.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/bbd6ae8eb5fc01fff1e599d9915c1f3a.pdf) |
+| 55 | 自然计算：DNA、量子比特和智能机器的未来 | 22.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/214ecab4cbafd8cb13d5dedeeb054127.pdf) |
+| 56 | 视不可当：信息图与可视化传播 | 29.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/f1a6d160345e7c2a02437a292fb8c6a2.pdf) |
+| 57 | 计算机科学中的数学：信息与智能时代的必修课<br />(Eric Lehman, F Thomson Leighton, Albert R Meyer etc.) | 205.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1072491655bb952a49bf8b07b9efe7b6.pdf) |
+| 58 | 计算的本质：深入剖析程序和计算机 | 19.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/0c1b99ccac0154f174f948b6547ea57f.pdf) |
+| 59 | 证明达尔文：进化和生物创造性的一个数学理论 | 7.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/2365d3bd42140c78a33872def3828ae9.pdf) |
+| 60 | 调试九法：软硬件错误的排查之道 | 11.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/eecbc08513a459d6c5a96b09eedd0783.pdf) |
+| 61 | 谷歌和亚马逊如何做产品 | 6.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c21ca817fa56c21afcc61abb068719ff.pdf) |
+| 62 | 贴心设计：打造高可用性的移动产品 | 40.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/79d6adabfaebe36f61d5e78b9855ea15.pdf) |
+| 63 | 软件之道——软件开发争议问题剖析 | 25.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/729888cc5c336cd19b5b0ece34fe9570.pdf) |
+| 64 | 软件开发与创新：ThoughtWorks文集（续集）<br />（PDF 代码为图片格式） | 5.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/826ded4a847fd831efd0f4817cc752cb.pdf) |
+| 65 | 软件开发沉思录：ThoughtWorks文集<br />（PDF代码为图片格式） | 6.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5224fd6b22750bc02741c1686f6b5f85.pdf) |
+| 66 | 软件故事：谁发明了那些经典的编程语言 | 9.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e4f1b47fc4a1fd7eaaba523cb73495ec.pdf) |
+| 67 | 软件架构设计第2版 | 3.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c9a09d90ee44f4c4dab99e8a89978d2c.pdf) |
+| 68 | 软件架构设计程序员向架构师转型必备 | 27.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/80501888e26769a3bcf53652aa7d51bd.pdf) |
+| 69 | 软件测试实战：微软技术专家经验总结 | 20.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/978b7b88d17fbe9102ece496a273d82e.pdf) |
+| 70 | 软件调试的艺术（PDF代码为图片格式） | 15.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/16c295ce07fdbdb70b774549788588fd.pdf) |
+| 71 | 迷茫的旅行商：一个无处不在的计算机算法问题 | 41.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/03da21c24d42fb4d4aad1c01b55866bd.pdf) |
+| 72 | 重构：改善既有代码的设计 | 157.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/1a284b69b3647e078f3a890087f60897.pdf) |
+| 73 | 深入浅出区块链-陈浩 | 23.2 MB | 待上传 |
+| 74 | 设计模式之美-王争 | 57.7 MB | 待上传 |
+
+</details>
+
+<details>
+<summary><b>软实力 / 职业素养</b></summary>
+
+沟通表达、管理、求职面试、思维与职业成长。
+
+| #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
+|---:|---|---:|---|
+| 1 | 人人都有好工作：IT行业求职面试必读 | 4.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e4995a9b1771ea565f44d89b4eaa97ed.pdf) |
+| 2 | 从技术走向管理――李元芳履职记第2版 | 101.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5edbe5e0edfd6cd14d0514ae43130245.pdf) |
+| 3 | 优秀的叛逆者：引领组织变革的力量 | 14.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/84a5d88d8d6bfb489ff2677a3c520437.pdf) |
+| 4 | 你的灯亮着吗？发现问题的真正所在 | 10.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/ea518c9a8d1c509012d5ad54925e4a34.pdf) |
+| 5 | 写给大家看的PPT设计书 | 26.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/806b8a1ededa86eaf63f27ed09ce288f.pdf) |
+| 6 | 写给大家看的项目管理书 | 18.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/e4283c178489a410eadaa090902d6ea6.pdf) |
+| 7 | 创意型领袖：从CEO到DEO | 18.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/81b97301d03b2ca64f9883296c636265.pdf) |
+| 8 | 卓越程序员密码 | 12.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/a7659682d033cd59e06881c806eb761e.pdf) |
+| 9 | 咨询的奥秘（续）：咨询师的百宝箱 | 20.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9cb6476cdc08a29bc37d42c260675f94.pdf) |
+| 10 | 咨询的奥秘：寻求和提出建议的智慧 | 5.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/03f45536193472b44b60c88b584acc01.pdf) |
+| 11 | 图解CIO工作指南（第4版） | 25.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/9ddb17cf7b2e5eceb29ed1ba94e11572.pdf) |
+| 12 | 如何变得有思想？——阮一峰博客文集 Ⅰ | 2.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/3aba4664e1e90a9e3ae4823771f5826f.pdf) |
+| 13 | 小决心：确实奏效的好习惯养成方法 | 7.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/51cb05d7938e0841697339ddbb06bb78.pdf) |
+| 14 | 小圈子·大社交 | 9.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/45469f6ebe9e33acd4abc72ed8237470.pdf) |
+| 15 | 布道之道 | 11.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/163d410a75c2d4224cb5ad1dea34ce52.pdf) |
+| 16 | 技术为径 | 137.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/0857360e34880e836fb5c9f196d5db2e.pdf) |
+| 17 | 技术领导力：程序员如何才能带团队 | 130.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/8a0b5b24173fc1e36a009c2e17fc6ce9.pdf) |
+| 18 | 每个人都会死，但我总以为自己不会 | 21.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/b3209e96e6c7d6340d95358b4c284d00.pdf) |
+| 19 | 社会工程：安全体系中的人性漏洞 | 7.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/513178984ab7791f9a60699f059cf668.pdf) |
+| 20 | 程序员修炼之道-从小工到专家 | 150.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/db7ab147706987e48d9c9291837bbf0b.pdf) |
+| 21 | 程序员的思维修炼—开发认知潜能的九堂课 | 13.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/ba969758b4be0e5a21a824b4c7b74a88.pdf) |
+| 22 | 程序员面试金典（第5版的） | 6.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/eb721859020ac743170e3068c1d23620.pdf) |
+| 23 | 精益开发实战：用看板管理大型项目 | 12.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/8e122bfed0436803ac4cf413db7cdf49.pdf) |
+| 24 | 编程大师访谈录 | 14.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/4893d092ded1c4885024b5bb20e3c928.pdf) |
+| 25 | 说服人要懂心理学 | 4.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/5acdf9fd0228a89c08fa9b0806f80fdd.pdf) |
+| 26 | 软件项目成功之道 | 9.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/c935444b869395a50ae3d62595c069ae.pdf) |
+| 27 | 金领简历：敲开苹果、微软、谷歌的大门 | 16.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/6e39346c94c0cc644ce1fdc15cd160d3.pdf) |
+| 28 | 门后的秘密：卓越管理的故事 | 10.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/28b72e53852fc2ad26dc17585a8e1595.pdf) |
+| 29 | 项目百态：深入理解软件项目行为模式 | 18.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/21f38aa5dfba48deb690d905afa273e1.pdf) |
+| 30 | 项目管理修炼之道 | 8.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/0c570221e14692ee99f6283e47cb2569.pdf) |
+| 31 | 黑客与画家来自计算机时代的高见 | 98.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/general/7ef9fa2e4ec7ffd54e8f3151bac812fc.pdf) |
+| 32 | 如何做好一场技术演讲-吴毅挺 | 3.8 MB | 待上传 |
 
 </details>
 
@@ -250,20 +263,18 @@ Java 语言、虚拟机、面试题。
 
 | #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
 |---:|---|---:|---|
-| 1 | Python计算机视觉编程 | 12.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/2b1248a72444d26ec09d96ee08df1542.pdf) |
-| 2 | 图像处理、分析与机器视觉（第三版） | 79.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/90e94089889d2433319ea02ff2dfac28.pdf) |
-| 3 | 性能之巅 | 371.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/2b00331b2e64ce66a177e04f501c6dce.pdf) |
-| 4 | 数字图像处理（中）第三版 | 82.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/df4c7e0e7ab21945362def22ff1348e7.pdf) |
-| 5 | 深入理解计算机系统第2版 | 381.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/8625e0115fc8f11789494302e0dab283.pdf) |
-| 6 | 深入理解计算机系统第3版 | 85.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/2fcbfa6ea3175961fdb471632c4c5502.pdf) |
-| 7 | 深入理解计算机系统 | 59.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/32aaca273733016d33ce9a0f89f87e7c.pdf) |
-| 8 | 深入理解计算机网络 | 492.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/35de8b0537f73524c9a6b038d8a3aa09.pdf) |
-| 9 | 现代操作系统第3版 | 721.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/e7b497d36fc444bfd8e648ce2a219a9c.pdf) |
-| 10 | 现代操作系统第三版高清 | 84.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/23db3a102b0c5fb1b519aac0642949d4.pdf) |
-| 11 | 编译原理 - ALFRED V.AHO MONICA S.LAM RAVI<br />SETHI等著 | 197.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/ce9a957a816d1d45c7a9e72da0c49c6b.pdf) |
-| 12 | 编译原理 | 55.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/a369ca8b8efcd4d2ceb853faa54e5642.pdf) |
-| 13 | 计算机程序的构造和解释第2版 | 417.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/4556d0b5f9e9ffcab5d03b56e7b74fec.pdf) |
-| 14 | 计算机组成与体系结构：性能设计第8版 | 259.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/9c0df958cc2e4cee2312d26012450daf.pdf) |
+| 1 | 性能之巅 | 371.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/2b00331b2e64ce66a177e04f501c6dce.pdf) |
+| 2 | 深入理解计算机系统第2版 | 381.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/8625e0115fc8f11789494302e0dab283.pdf) |
+| 3 | 深入理解计算机系统第3版 | 85.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/2fcbfa6ea3175961fdb471632c4c5502.pdf) |
+| 4 | 深入理解计算机系统 | 59.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/32aaca273733016d33ce9a0f89f87e7c.pdf) |
+| 5 | 深入理解计算机网络 | 492.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/35de8b0537f73524c9a6b038d8a3aa09.pdf) |
+| 6 | 现代操作系统第3版 | 721.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/e7b497d36fc444bfd8e648ce2a219a9c.pdf) |
+| 7 | 现代操作系统第三版高清 | 84.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/23db3a102b0c5fb1b519aac0642949d4.pdf) |
+| 8 | 编译原理 - ALFRED V.AHO MONICA S.LAM RAVI<br />SETHI等著 | 197.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/ce9a957a816d1d45c7a9e72da0c49c6b.pdf) |
+| 9 | 编译原理 | 55.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/a369ca8b8efcd4d2ceb853faa54e5642.pdf) |
+| 10 | 计算机程序的构造和解释第2版 | 417.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/4556d0b5f9e9ffcab5d03b56e7b74fec.pdf) |
+| 11 | 计算机组成与体系结构：性能设计第8版 | 259.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/9c0df958cc2e4cee2312d26012450daf.pdf) |
+| 12 | 深入浅出计算机组成原理-徐文浩 | 99.3 MB | 待上传 |
 
 </details>
 
@@ -289,7 +300,7 @@ C 与 C++ 语言、STL、底层。
 | 13 | C语言程序设计现代方法第2版 | 29.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/4ce69ef3fb296c0acc90f9f2013eec22.pdf) |
 | 14 | Essential C++ | 14.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/1211cfc27b9386bec1dc48ce2015b517.pdf) |
 | 15 | Essential C++中文版 | 19.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/11313b8a504587a407da5b9a512e0f65.pdf) |
-| 16 | Exceptional C++中文版(draft) | 942 KB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/1fed93cf972a96e913258c110ffcdca1.pdf) |
+| 16 | Exceptional C++中文版(draft) | 0.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/1fed93cf972a96e913258c110ffcdca1.pdf) |
 | 17 | Modern C++ Design中文版 | 19.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/ff458c8259a07ff1a5b3308067a19af2.pdf) |
 | 18 | More Effective C++中文版 | 7.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/5acfa3d8eb50e733ba843628ea32d053.pdf) |
 | 19 | More Exceptional C++中文版 | 10.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/cpp/880f3fb561908f8b58701635ee9a87c2.pdf) |
@@ -328,40 +339,48 @@ C 与 C++ 语言、STL、底层。
 | 19 | 趣学算法 | 14.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/algo/54b58194aba08d728beffe605c5e1afe.pdf) |
 | 20 | 遗传算法原理及应用 | 5.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/algo/c42c658f20a7ae4336771d6e08e3429b.pdf) |
 | 21 | 高效算法：竞赛、应试与提高必修128例 | 7.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/algo/f5875d363685cf65f7213d407ed7dde1.pdf) |
+| 22 | 常用数据结构必知必会-王争 | 0.9 MB | 待上传 |
+| 23 | 数据结构与算法之美-王争 | 51.2 MB | 待上传 |
 
 </details>
 
 <details>
 <summary><b>图形学 / 渲染</b></summary>
 
-OpenGL、Vulkan、光线追踪。
+OpenGL、Vulkan、光线追踪、图像处理与计算机视觉。
 
 | #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
 |---:|---|---:|---|
-| 1 | 3D游戏与计算机图形学中的数学方法（第3版） | 174.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/78fee4781e59e8f6d2b39d15e98dde6a.pdf) |
-| 2 | Computer Graphics Programming in OpenGL Using<br />C++, 3rd Edition_2024 | 53.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/3835e77302d4247e66a720b10b3b8eee.pdf) |
-| 3 | Mastering Graphics Programming with<br />Vulkan_2023 | 22.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/bff0a1cac2fb40b118bc41dae1a5c9e0.pdf) |
-| 4 | OpenGL图形编程项目实战_2020 | 60.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/a5f93f40df5b6b0efdb311715f9e1726.pdf) |
-| 5 | OpenGL编程指南（原书第9版）_2017 | 161.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/0aa569b9167b235760cbd7a3cb7dffc1.pdf) |
-| 6 | Ray Tracing Gems 2019 | 34.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/a38de522f228f2db930cf811d2754bf0.pdf) |
-| 7 | Ray Tracing Gems II_ 2021 | 35.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/8481e2365abdc9423f3d5bd816208f9b.pdf) |
-| 8 | The Modern Vulkan Cookbook_2024 | 33.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/572bed3397bc41615af81fec3d0b7c67.pdf) |
-| 9 | vulkan_tutorial_en | 4.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/4a48669266d5f4adb38337f17dea1407.pdf) |
-| 10 | vulkan_tutorial_中文版 Vulkan编程指南<br />( Alexander Overvoorde著 fangcun译) | 3.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/f2bf711b3be3327aa278d65642fb4dba.pdf) |
-| 11 | Vulkan学习指南_2020 | 10.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/b628fab8a3003a1b9dab54644f71826e.pdf) |
-| 12 | Vulkan应用开发指南_2019 (2) | 143.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/feee707e47ba5c207f5d8638306b0d88.pdf) |
-| 13 | Vulkan应用开发指南_2019 | 2.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/8f5f17e1f681cbe66f741eb070d77f1d.pdf) |
-| 14 | Vulkan开发实战详解_2020 | 15.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/2b4595c5adb12de978a94a2d14fb909e.pdf) |
-| 15 | 光线追踪精粹：基于DXR及其他API的高质量实时渲染<br />_2021_（美）Eric Haines | 88.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/8afd956353a27e0a26d86263bd1cfd10.pdf) |
-| 16 | 深入理解OpenGL、WebGL和OpenGL ES_2020 | 132.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/159585b3b0ec2a60c9f99868b9638c44.pdf) |
-| 17 | 视觉计算基础：计算机视觉、图形学和图像处理的核<br />心概念_2019 | 138.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/fabad20221ea957c14a4e62103b7eecf.pdf) |
-| 18 | 计算机图形学中的四元数_2023 | 2.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/57bcec8ab99509cec571e20c32f6bfb4.pdf) |
-| 19 | 计算机图形学入门3D渲染指南 | 28.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/04094f7369942b99fcc32ed397d78179.pdf) |
-| 20 | 计算机图形学基础（OpenGL版）（第2版） 2020 | 61.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/36dd1d69afeb3490a53cb506b30e0508.pdf) |
-| 21 | 计算机图形学编程：使用OpenGL和C++_2020 | 120.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/2ba40b4a00c0154d9b53ad96a5433684.pdf) |
-| 22 | 计算机图形学：几何体数据结构_2019 | 62.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/12603185f40dd34a8b8ccd86c2053481.pdf) |
-| 23 | 计算机图形学：原理、算法及实践_2018 | 14.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/d4d23547aa30fc5af772557c8fbfa894.pdf) |
-| 24 | 计算机图形学：原理及实践（第3版基础篇）_2019 | 195.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/828e9d5900376f438338f38895a63199.pdf) |
+| 1 | OpenCV Android 开发实战 | 12.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/38ea0f5a6268dca5731b6ff5ed339670.pdf) |
+| 2 | OpenGL ES应用开发实践指南 | 58.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/fa70490a7230fa2a29d4070f4754b258.pdf) |
+| 3 | 深入理解OpenCV 实用计算机视觉项目解析 | 54.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/android/cb5c25fc2d81d1bc27df9ca493ff6911.pdf) |
+| 4 | Python计算机视觉编程 | 12.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/2b1248a72444d26ec09d96ee08df1542.pdf) |
+| 5 | 图像处理、分析与机器视觉（第三版） | 79.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/90e94089889d2433319ea02ff2dfac28.pdf) |
+| 6 | 数字图像处理（中）第三版 | 82.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/system/df4c7e0e7ab21945362def22ff1348e7.pdf) |
+| 7 | 3D游戏与计算机图形学中的数学方法（第3版） | 174.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/78fee4781e59e8f6d2b39d15e98dde6a.pdf) |
+| 8 | Computer Graphics Programming in OpenGL Using<br />C++, 3rd Edition_2024 | 53.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/3835e77302d4247e66a720b10b3b8eee.pdf) |
+| 9 | Mastering Graphics Programming with<br />Vulkan_2023 | 22.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/bff0a1cac2fb40b118bc41dae1a5c9e0.pdf) |
+| 10 | OpenGL图形编程项目实战_2020 | 60.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/a5f93f40df5b6b0efdb311715f9e1726.pdf) |
+| 11 | OpenGL编程指南（原书第9版）_2017 | 161.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/0aa569b9167b235760cbd7a3cb7dffc1.pdf) |
+| 12 | Ray Tracing Gems 2019 | 34.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/a38de522f228f2db930cf811d2754bf0.pdf) |
+| 13 | Ray Tracing Gems II_ 2021 | 35.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/8481e2365abdc9423f3d5bd816208f9b.pdf) |
+| 14 | The Modern Vulkan Cookbook_2024 | 33.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/572bed3397bc41615af81fec3d0b7c67.pdf) |
+| 15 | vulkan_tutorial_en | 4.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/4a48669266d5f4adb38337f17dea1407.pdf) |
+| 16 | vulkan_tutorial_中文版 Vulkan编程指南<br />( Alexander Overvoorde著 fangcun译) | 3.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/f2bf711b3be3327aa278d65642fb4dba.pdf) |
+| 17 | Vulkan学习指南_2020 | 10.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/b628fab8a3003a1b9dab54644f71826e.pdf) |
+| 18 | Vulkan应用开发指南_2019 (2) | 143.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/feee707e47ba5c207f5d8638306b0d88.pdf) |
+| 19 | Vulkan应用开发指南_2019 | 2.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/8f5f17e1f681cbe66f741eb070d77f1d.pdf) |
+| 20 | Vulkan开发实战详解_2020 | 15.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/2b4595c5adb12de978a94a2d14fb909e.pdf) |
+| 21 | 光线追踪精粹：基于DXR及其他API的高质量实时渲染<br />_2021_（美）Eric Haines | 88.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/8afd956353a27e0a26d86263bd1cfd10.pdf) |
+| 22 | 深入理解OpenGL、WebGL和OpenGL ES_2020 | 132.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/159585b3b0ec2a60c9f99868b9638c44.pdf) |
+| 23 | 视觉计算基础：计算机视觉、图形学和图像处理的核<br />心概念_2019 | 138.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/fabad20221ea957c14a4e62103b7eecf.pdf) |
+| 24 | 计算机图形学中的四元数_2023 | 2.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/57bcec8ab99509cec571e20c32f6bfb4.pdf) |
+| 25 | 计算机图形学入门3D渲染指南 | 28.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/04094f7369942b99fcc32ed397d78179.pdf) |
+| 26 | 计算机图形学基础（OpenGL版）（第2版） 2020 | 61.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/36dd1d69afeb3490a53cb506b30e0508.pdf) |
+| 27 | 计算机图形学编程：使用OpenGL和C++_2020 | 120.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/2ba40b4a00c0154d9b53ad96a5433684.pdf) |
+| 28 | 计算机图形学：几何体数据结构_2019 | 62.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/12603185f40dd34a8b8ccd86c2053481.pdf) |
+| 29 | 计算机图形学：原理、算法及实践_2018 | 14.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/d4d23547aa30fc5af772557c8fbfa894.pdf) |
+| 30 | 计算机图形学：原理及实践（第3版基础篇）_2019 | 195.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/graphics/828e9d5900376f438338f38895a63199.pdf) |
 
 </details>
 
@@ -373,75 +392,87 @@ OpenGL、Vulkan、光线追踪。
 | #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
 |---:|---|---:|---|
 | 1 | 21个项目玩转深度学习：基于TensorFlow的实践详解 | 12.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/9db15cae71f0215381da049dc8f674f0.pdf) |
-| 2 | Applied Deep Learning with Python | 18.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/5fd8962f275f88d9f6068fc9c3f9b00f.pdf) |
-| 3 | AutoML Methods, Systems, Challenges | 6.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/837c2fb5b041c48e3ce78f1ce0321963.pdf) |
-| 4 | Deep Learning With Python - 英文版 | 10.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/a5244908640c3fb5b5b03e189d22c591.pdf) |
-| 5 | Deep Learning With Python | 19.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b8bf62072f6ce43ba7b30b4d6cfa9735.pdf) |
-| 6 | From None to Machine Learning | 20.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/c453f170c80a77981ec79fc49f8a41a5.pdf) |
-| 7 | Introduce to Machine Learning with Python | 3.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/bc8e5bea246586bb97a5acb5e3421779.pdf) |
-| 8 | Machine Learning in Action | 10.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/19dbfb38b21e755d9f6340988f3ecd24.pdf) |
-| 9 | Machine Learning in Action（英文原版） | 6.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/a6ec01770c8d19ca3dc815930474400e.pdf) |
-| 10 | Machine Learning | 37.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b79ff895e0f7668ed1c931631a4acc9b.pdf) |
-| 11 | Pattern recognition and machine learning | 8.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/ee849d68d23daa6ef1631d25d95ad402.pdf) |
-| 12 | Pattern recognition and machine learning_马春<br />鹏翻译版 | 13.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/8904786fe729c3c2d1c3019e0c5916e6.pdf) |
-| 13 | Programming Collective Intelligence | 3.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e2f0fa596a3576fe58e27db270a5d5ea.pdf) |
-| 14 | Python机器学习及实践-从零开始通往Kaggle<br />竞赛之路 | 48.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/4c75ad5ef90087561a523aeca051aa2c.pdf) |
-| 15 | Python神经网络编程(高清版) | 11.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/fa3c466df40d796605b6cc3a35530c83.pdf) |
-| 16 | Python编程入门（第3版） | 5.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e683b34294bdae4153e369cb5ef0d0e6.pdf) |
-| 17 | PyTorch 1.0 Bringing research and production<br />together Presentation | 7.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/50f8cd77747c379b5e5f0d38c212b062.pdf) |
-| 18 | scikit-learn机器学习：常用算法原理及编程实战 | 21.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/79e67f557fe4555b7926141d31c85630.pdf) |
-| 19 | Spark机器学习 | 9.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/169f4011cadd2606543fe24e9be70d6c.pdf) |
-| 20 | Spark高级数据分析 | 18.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/c2ee7b797c560bebfe7d34731ddd1d08.pdf) |
-| 21 | StatQuest图解机器学习 | 92.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/15925b5299c726726045baede5d1500d.pdf) |
-| 22 | StatQuest图解神经网络与深度学习 | 287.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/84c08240fad3f34ed45568fafb8f14fc.pdf) |
-| 23 | TensorFlow 官方文档中文版 | 6.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/0ee13862237f1e758755dffdc209a3c9.pdf) |
-| 24 | 人工智能通识基础 | 115.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/0e6a81ea5f7d02513180eac06b1bd700.pdf) |
-| 25 | 实战Google深度学习框架 | 96.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b729f771d05ce848e4312a8541b95abc.pdf) |
-| 26 | 支持向量机通俗导论（理解SVM的三层境界）Latex版 | 1.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/bc44d1ae31abf3dc85232cd5597f9dd3.pdf) |
-| 27 | 机器学习-周志华 | 39.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e9c100526385796e91cc7d774752b66e.pdf) |
-| 28 | 机器学习-汤姆・米切尔 | 3.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/79d18dcd84f8842d2a868598c5fa326b.pdf) |
-| 29 | 机器学习之实用案例解析 | 35.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/5609cdba58ea03fab720c2a1752cd6ca.pdf) |
-| 30 | 机器学习及其应用 | 32.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/03d7284396bfad593b62dbdad846c738.pdf) |
-| 31 | 机器学习导论 | 97.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/9c94bfc11673a90be1fa3ae3200b1b94.pdf) |
-| 32 | 机器学习算法原理与编程实践 | 3.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/2a467b909f36a4656df93821acb4d99f.pdf) |
-| 33 | 机器学习训练秘籍-中文-吴恩达 | 5.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/6f4d1836d8c41233e315f981881deb4e.pdf) |
-| 34 | 机器学习训练秘籍-英文-吴恩达 | 4.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/9e8f77e479d4500e7b1f65b2be9fce44.pdf) |
-| 35 | 深度学习 | 38.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/fdf47eaad7b836d57a4fa01c6f0c9883.pdf) |
-| 36 | 深度学习入门之PyTorch.廖星宇(详细书签) | 60.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/10ba3ebb3f4aa23b70fe0ea406e3c924.pdf) |
-| 37 | 深度学习基础教程-斯坦福大学 | 9.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/2e1cf57152de2ab81cfd0687c2749b23.pdf) |
-| 38 | 深度学习（英文版） | 23.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/fe615a68c3b8c5e2d2f32035e996c5bf.pdf) |
-| 39 | 理解深度学习-Simon J.D.Prince | 143.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/dccd56454a5f3c0d47f3605a046ee12d.pdf) |
-| 40 | 神经网络和深度学习 | 3.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/65577f53b75b3a1df2deebceb324abd6.pdf) |
-| 41 | 统计学习导论基于R应用中文版 | 18.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/123d494264e2058e641c36d96af3a626.pdf) |
-| 42 | 统计学习方法 | 17.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e558de0f154f2d01e401fe07be90de41.pdf) |
-| 43 | 解析卷积神经网络—深度学习实践手册 | 49.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/376021eed8647512e3e1e0b1a58fdff3.pdf) |
-| 44 | 迁移学习简明手册 | 3.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b3f8921b1a6a9743f55e45b6772e4563.pdf) |
-| 45 | 面向机器智能的TensorFlow实践 | 24.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/f108f5bdfb89b1d47a7cbb484d932ebe.pdf) |
+| 2 | AutoML Methods, Systems, Challenges | 6.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/837c2fb5b041c48e3ce78f1ce0321963.pdf) |
+| 3 | From None to Machine Learning | 20.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/c453f170c80a77981ec79fc49f8a41a5.pdf) |
+| 4 | Machine Learning in Action | 10.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/19dbfb38b21e755d9f6340988f3ecd24.pdf) |
+| 5 | Machine Learning in Action（英文原版） | 6.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/a6ec01770c8d19ca3dc815930474400e.pdf) |
+| 6 | Machine Learning | 37.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b79ff895e0f7668ed1c931631a4acc9b.pdf) |
+| 7 | Pattern recognition and machine learning | 8.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/ee849d68d23daa6ef1631d25d95ad402.pdf) |
+| 8 | Pattern recognition and machine learning_马春<br />鹏翻译版 | 13.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/8904786fe729c3c2d1c3019e0c5916e6.pdf) |
+| 9 | Programming Collective Intelligence | 3.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e2f0fa596a3576fe58e27db270a5d5ea.pdf) |
+| 10 | PyTorch 1.0 Bringing research and production<br />together Presentation | 7.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/50f8cd77747c379b5e5f0d38c212b062.pdf) |
+| 11 | scikit-learn机器学习：常用算法原理及编程实战 | 21.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/79e67f557fe4555b7926141d31c85630.pdf) |
+| 12 | Spark机器学习 | 9.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/169f4011cadd2606543fe24e9be70d6c.pdf) |
+| 13 | Spark高级数据分析 | 18.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/c2ee7b797c560bebfe7d34731ddd1d08.pdf) |
+| 14 | StatQuest图解机器学习 | 92.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/15925b5299c726726045baede5d1500d.pdf) |
+| 15 | StatQuest图解神经网络与深度学习 | 287.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/84c08240fad3f34ed45568fafb8f14fc.pdf) |
+| 16 | TensorFlow 官方文档中文版 | 6.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/0ee13862237f1e758755dffdc209a3c9.pdf) |
+| 17 | 人工智能通识基础 | 115.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/0e6a81ea5f7d02513180eac06b1bd700.pdf) |
+| 18 | 实战Google深度学习框架 | 96.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b729f771d05ce848e4312a8541b95abc.pdf) |
+| 19 | 支持向量机通俗导论（理解SVM的三层境界）Latex版 | 1.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/bc44d1ae31abf3dc85232cd5597f9dd3.pdf) |
+| 20 | 机器学习-周志华 | 39.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e9c100526385796e91cc7d774752b66e.pdf) |
+| 21 | 机器学习-汤姆・米切尔 | 3.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/79d18dcd84f8842d2a868598c5fa326b.pdf) |
+| 22 | 机器学习之实用案例解析 | 35.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/5609cdba58ea03fab720c2a1752cd6ca.pdf) |
+| 23 | 机器学习及其应用 | 32.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/03d7284396bfad593b62dbdad846c738.pdf) |
+| 24 | 机器学习导论 | 97.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/9c94bfc11673a90be1fa3ae3200b1b94.pdf) |
+| 25 | 机器学习算法原理与编程实践 | 3.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/2a467b909f36a4656df93821acb4d99f.pdf) |
+| 26 | 机器学习训练秘籍-中文-吴恩达 | 5.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/6f4d1836d8c41233e315f981881deb4e.pdf) |
+| 27 | 机器学习训练秘籍-英文-吴恩达 | 4.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/9e8f77e479d4500e7b1f65b2be9fce44.pdf) |
+| 28 | 深度学习 | 38.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/fdf47eaad7b836d57a4fa01c6f0c9883.pdf) |
+| 29 | 深度学习入门之PyTorch.廖星宇(详细书签) | 60.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/10ba3ebb3f4aa23b70fe0ea406e3c924.pdf) |
+| 30 | 深度学习基础教程-斯坦福大学 | 9.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/2e1cf57152de2ab81cfd0687c2749b23.pdf) |
+| 31 | 深度学习（英文版） | 23.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/fe615a68c3b8c5e2d2f32035e996c5bf.pdf) |
+| 32 | 理解深度学习-Simon J.D.Prince | 143.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/dccd56454a5f3c0d47f3605a046ee12d.pdf) |
+| 33 | 神经网络和深度学习 | 3.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/65577f53b75b3a1df2deebceb324abd6.pdf) |
+| 34 | 统计学习导论基于R应用中文版 | 18.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/123d494264e2058e641c36d96af3a626.pdf) |
+| 35 | 统计学习方法 | 17.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e558de0f154f2d01e401fe07be90de41.pdf) |
+| 36 | 解析卷积神经网络—深度学习实践手册 | 49.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/376021eed8647512e3e1e0b1a58fdff3.pdf) |
+| 37 | 迁移学习简明手册 | 3.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b3f8921b1a6a9743f55e45b6772e4563.pdf) |
+| 38 | 面向机器智能的TensorFlow实践 | 24.2 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/f108f5bdfb89b1d47a7cbb484d932ebe.pdf) |
+| 39 | 人工智能基础课-王天一 | 13.4 MB | 待上传 |
+
+</details>
+
+<details>
+<summary><b>Python</b></summary>
+
+Python 语言、数据分析、机器学习实战。
+
+| #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
+|---:|---|---:|---|
+| 1 | Applied Deep Learning with Python | 18.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/5fd8962f275f88d9f6068fc9c3f9b00f.pdf) |
+| 2 | Deep Learning With Python - 英文版 | 10.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/a5244908640c3fb5b5b03e189d22c591.pdf) |
+| 3 | Deep Learning With Python | 19.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/b8bf62072f6ce43ba7b30b4d6cfa9735.pdf) |
+| 4 | Introduce to Machine Learning with Python | 3.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/bc8e5bea246586bb97a5acb5e3421779.pdf) |
+| 5 | Python机器学习及实践-从零开始通往Kaggle<br />竞赛之路 | 48.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/4c75ad5ef90087561a523aeca051aa2c.pdf) |
+| 6 | Python神经网络编程(高清版) | 11.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/fa3c466df40d796605b6cc3a35530c83.pdf) |
+| 7 | Python编程入门（第3版） | 5.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/ai/e683b34294bdae4153e369cb5ef0d0e6.pdf) |
+| 8 | NumPy攻略：Python科学计算与数据分析 | 14.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/f71d7fd13bfd648231f3d08e0d910c26.pdf) |
+| 9 | Python For Data Analysis | 14.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/c75db42d5375e06b61c3109731e4cfd1.pdf) |
+| 10 | Python入门经典以解决计算问题为导向的Python<br />编程实践 | 48.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/aa0810080f0aa21ac57f9fa15d3c93d3.pdf) |
+| 11 | Python数据分析基础教程：NumPy学习指南 | 5.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/4fe531835723075a76bfdc07513b705d.pdf) |
+| 12 | Python核心编程第二版(中文) | 5.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/a95b33988ce5777426094d3b6635000b.pdf) |
+| 13 | 以解决计算问题为导向的Python编程 | 51.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/5eeee0e0f3bd0d4e12f8e6b1d7ae81b7.pdf) |
+| 14 | 像计算机科学家一样思考Python | 48.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/c780e5c757d50f0d22ac4811c48fbd0a.pdf) |
+| 15 | 利用Python进行数据分析 | 78.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/193948b709e9cc3a23514a6329d344e3.pdf) |
+| 16 | 用python做科学计算 | 7.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/7d12e75ec50eddebf2437c76df1941e5.pdf) |
 
 </details>
 
 <details>
 <summary><b>其他语言</b></summary>
 
-Python、R、UNIX 网络编程等。
+R、Go、UNIX 网络编程等。
 
 | #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 书名 <img src="assets/spacer.png" width="399" height="1" alt=""> | 大小&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 下载&nbsp; |
 |---:|---|---:|---|
 | 1 | LBS应用开发（PDF代码为图片格式） | 14.9 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/dee6b5b2069aba315357df51ff0d3f48.pdf) |
 | 2 | Mahout实战（PDF代码为图片格式） | 13.6 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/53990abdb7aae1e1db2db5c47a62a20e.pdf) |
-| 3 | NumPy攻略：Python科学计算与数据分析 | 14.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/f71d7fd13bfd648231f3d08e0d910c26.pdf) |
-| 4 | Python For Data Analysis | 14.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/c75db42d5375e06b61c3109731e4cfd1.pdf) |
-| 5 | Python入门经典以解决计算问题为导向的Python<br />编程实践 | 48.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/aa0810080f0aa21ac57f9fa15d3c93d3.pdf) |
-| 6 | Python数据分析基础教程：NumPy学习指南 | 5.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/4fe531835723075a76bfdc07513b705d.pdf) |
-| 7 | Python核心编程第二版(中文) | 5.3 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/a95b33988ce5777426094d3b6635000b.pdf) |
-| 8 | UNIX 网络编程卷1套接口API 第3版 | 673.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/5609ac801e2a1ec44311d72f440fe2a2.pdf) |
-| 9 | UNIX网络编程卷2进程间通信第2版 | 183.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/229ad3adb089bff4e46a4ae804d0661f.pdf) |
-| 10 | 以解决计算问题为导向的Python编程 | 51.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/5eeee0e0f3bd0d4e12f8e6b1d7ae81b7.pdf) |
-| 11 | 像计算机科学家一样思考Python | 48.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/c780e5c757d50f0d22ac4811c48fbd0a.pdf) |
-| 12 | 利用Python进行数据分析 | 78.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/193948b709e9cc3a23514a6329d344e3.pdf) |
-| 13 | 学习R | 31.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/227d91d92f8219851d8992da07b069f1.pdf) |
-| 14 | 实战Cradle | 44.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/4ccb3d1aecd38d26d290b078936abf22.pdf) |
-| 15 | 用python做科学计算 | 7.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/7d12e75ec50eddebf2437c76df1941e5.pdf) |
+| 3 | UNIX 网络编程卷1套接口API 第3版 | 673.0 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/5609ac801e2a1ec44311d72f440fe2a2.pdf) |
+| 4 | UNIX网络编程卷2进程间通信第2版 | 183.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/229ad3adb089bff4e46a4ae804d0661f.pdf) |
+| 5 | 学习R | 31.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/227d91d92f8219851d8992da07b069f1.pdf) |
+| 6 | 实战Cradle | 44.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/niche-lang/4ccb3d1aecd38d26d290b078936abf22.pdf) |
+| 7 | Go语言核心36讲-郝林 | 29.4 MB | 待上传 |
 
 </details>
 
@@ -462,6 +493,12 @@ JS、CSS、浏览器、性能优化。
 | 8 | 瞬间之美：Web界面设计如何让用户心动 | 22.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/frontend/3e57e17da9166fe4632c437d11de4701.pdf) |
 | 9 | 网站搜索设计：兼顾SEO及可用性的网站设计心得 | 21.4 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/frontend/90198d8ffc526822d27e5880c3284189.pdf) |
 | 10 | 高性能 JAVASCRIPT | 52.1 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/frontend/434bb540ba80f1a441ce9a932ced1e74.pdf) |
+| 11 | Flutter核心技术与实战-陈航 | 37.3 MB | 待上传 |
+| 12 | iOS开发高手课-戴铭 | 33.3 MB | 待上传 |
+| 13 | 从0打造音视频直播系统-李超 | 27.7 MB | 待上传 |
+| 14 | 搞定音频技术-冯建元 | 34.9 MB | 待上传 |
+| 15 | 攻克视频技术-李江 | 32.5 MB | 待上传 |
+| 16 | 浏览器工作原理与实践-李兵 | 48.3 MB | 待上传 |
 
 </details>
 
@@ -496,6 +533,7 @@ HTTP、TCP/IP、网络协议。
 | 8 | 网络是怎样连接的 | 18.7 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/http/9b2d6aca34f75a3a989784f41ff6e311.pdf) |
 | 9 | 计算机网络 | 67.5 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/http/86e44f660407d12d5c3899e6cc3b83d4.pdf) |
 | 10 | 计算机网络教程：自顶向下方法 | 30.8 MB | [下载](https://github.com/NoGirlfriendFoundException/OpenLibrary/releases/download/http/a418fe27153d5571ef312c06aa4f5230.pdf) |
+| 11 | 趣谈网络协议-刘超 | 72.1 MB | 待上传 |
 
 </details>
 
